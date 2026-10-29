@@ -1,0 +1,44 @@
+﻿start_station,end_station,ground_status,han_river_crossing,description
+시청,을지로입구,unclassified,false,구간 단위 확인 미완료: 지하로 확정한 것은 아님
+을지로입구,을지로3가,unclassified,false,구간 단위 확인 미완료: 지하로 확정한 것은 아님
+을지로3가,을지로4가,unclassified,false,구간 단위 확인 미완료: 지하로 확정한 것은 아님
+을지로4가,동대문역사문화공원,unclassified,false,구간 단위 확인 미완료: 지하로 확정한 것은 아님
+동대문역사문화공원,신당,unclassified,false,구간 단위 확인 미완료: 지하로 확정한 것은 아님
+신당,상왕십리,unclassified,false,구간 단위 확인 미완료: 지하로 확정한 것은 아님
+상왕십리,왕십리,unclassified,false,구간 단위 확인 미완료: 지하로 확정한 것은 아님
+왕십리,한양대,transition,false,지상·지하 전환 가능성이 있는 경계 구간: 비율 미확인
+한양대,뚝섬,surface,false,서울시의회 자료상 지상철도 구간 내부
+뚝섬,성수,surface,false,서울시의회 자료상 지상철도 구간 내부
+성수,건대입구,surface,false,서울시의회 자료상 지상철도 구간 내부
+건대입구,구의,surface,false,서울시의회 자료상 지상철도 구간 내부
+구의,강변,surface,false,서울시의회 자료상 지상철도 구간 내부
+강변,잠실나루,surface,true,잠실철교를 통한 한강 횡단
+잠실나루,잠실,transition,false,지상·지하 전환 가능성이 있는 경계 구간: 비율 미확인
+잠실,잠실새내,unclassified,false,구간 단위 확인 미완료: 지하로 확정한 것은 아님
+잠실새내,종합운동장,unclassified,false,구간 단위 확인 미완료: 지하로 확정한 것은 아님
+종합운동장,삼성,unclassified,false,구간 단위 확인 미완료: 지하로 확정한 것은 아님
+삼성,선릉,unclassified,false,구간 단위 확인 미완료: 지하로 확정한 것은 아님
+선릉,역삼,unclassified,false,구간 단위 확인 미완료: 지하로 확정한 것은 아님
+역삼,강남,unclassified,false,구간 단위 확인 미완료: 지하로 확정한 것은 아님
+강남,교대,unclassified,false,구간 단위 확인 미완료: 지하로 확정한 것은 아님
+교대,서초,unclassified,false,구간 단위 확인 미완료: 지하로 확정한 것은 아님
+서초,방배,unclassified,false,구간 단위 확인 미완료: 지하로 확정한 것은 아님
+방배,사당,unclassified,false,구간 단위 확인 미완료: 지하로 확정한 것은 아님
+사당,낙성대,unclassified,false,구간 단위 확인 미완료: 지하로 확정한 것은 아님
+낙성대,서울대입구,unclassified,false,구간 단위 확인 미완료: 지하로 확정한 것은 아님
+서울대입구,봉천,unclassified,false,구간 단위 확인 미완료: 지하로 확정한 것은 아님
+봉천,신림,unclassified,false,구간 단위 확인 미완료: 지하로 확정한 것은 아님
+신림,신대방,transition,false,지상·지하 전환 가능성이 있는 경계 구간: 비율 미확인
+신대방,구로디지털단지,surface,false,서울시의회 자료상 지상철도 구간 내부
+구로디지털단지,대림,surface,false,서울시의회 자료상 지상철도 구간 내부
+대림,신도림,surface,false,서울시의회 자료상 지상철도 구간 내부
+신도림,문래,unclassified,false,구간 단위 확인 미완료: 지하로 확정한 것은 아님
+문래,영등포구청,unclassified,false,구간 단위 확인 미완료: 지하로 확정한 것은 아님
+영등포구청,당산,transition,false,지상·지하 전환 가능성이 있는 경계 구간: 비율 미확인
+당산,합정,surface,true,당산철교를 통한 한강 횡단
+합정,홍대입구,unclassified,false,구간 단위 확인 미완료: 지하로 확정한 것은 아님
+홍대입구,신촌,unclassified,false,구간 단위 확인 미완료: 지하로 확정한 것은 아님
+신촌,이대,unclassified,false,구간 단위 확인 미완료: 지하로 확정한 것은 아님
+이대,아현,unclassified,false,구간 단위 확인 미완료: 지하로 확정한 것은 아님
+아현,충정로,unclassified,false,구간 단위 확인 미완료: 지하로 확정한 것은 아님
+충정로,시청,unclassified,false,구간 단위 확인 미완료: 지하로 확정한 것은 아님
